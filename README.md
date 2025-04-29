@@ -19,7 +19,7 @@
   <summary><h3>How to Run?</h3></summary>
   
   > **If java & git is already installed!**
-  - ```bash
+  - ```sh
     git clone --depth=1 https://github.com/mr0erek/Class-Management-Sys.git; cd Class-Management-Sys; javac ClassManagementSystem.java; java ClassManagmentSystem 
     ```
     - **else** -> [Download ZIP](https://github.com/mr0erek/Class-Management-Sys/archive/refs/heads/main.zip)  **and Extract**
